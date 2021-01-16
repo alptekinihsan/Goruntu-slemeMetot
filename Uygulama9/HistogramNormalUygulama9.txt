@@ -1,0 +1,4 @@
+
+
+
+Normal Bir Görüntünün Histogramını Alma

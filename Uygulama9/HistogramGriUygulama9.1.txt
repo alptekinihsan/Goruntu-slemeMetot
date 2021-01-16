@@ -1,0 +1,3 @@
+
+
+Normal bir Görüntüyü Griye Çevirip Histogramını Alma

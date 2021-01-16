@@ -1,0 +1,5 @@
+
+
+
+Görüntüyü
+Girilen Satır ve Sütün Sayısına Kadar Görüntüyü Kesme

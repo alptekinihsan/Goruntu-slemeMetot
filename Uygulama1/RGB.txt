@@ -1,0 +1,5 @@
+
+
+
+Görüntüyü
+Red,Green,Blue Görüntüye Çevirme 
